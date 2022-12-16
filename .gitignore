@@ -1,0 +1,15 @@
+*.pyo
+*.pyc
+env
+.idea
+logs/*
+pycache__/
+.deta/
+.DS_Store
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
